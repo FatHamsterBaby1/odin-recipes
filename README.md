@@ -1,1 +1,1 @@
-# odin-recipes-
+This project is showing my knowledge of HTMl that I have gained so far. I will be creating a simple website about a recipe which will have simple links and information. This website will help me practice all of the tags and things I have learned so far.
